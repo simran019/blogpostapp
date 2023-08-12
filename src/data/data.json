@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "itemName": "Pizza",
+      "price": 40,
+      "isChecked": true
+    },
+    {
+      "id": 2,
+      "itemName": "momos",
+      "isChecked": false,
+      "price": 0
+    },
+    {
+      "id": 3,
+      "itemName": "burger",
+      "isChecked": false,
+      "price": 0
+    }
+  ]
+}
